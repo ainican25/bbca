@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # --- Judul dan Deskripsi Aplikasi ---
-st.title("📈 Prediksi Harga Saham Sederhana")
+st.title("📈 Prediksi Harga Saham BBCA")
 st.write("""
 Aplikasi ini memprediksi harga saham (atau tren) berdasarkan beberapa parameter input.
 **Penting:** Aplikasi ini hanya contoh demonstrasi dan tidak boleh digunakan untuk keputusan investasi riil.
