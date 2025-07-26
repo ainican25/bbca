@@ -5,13 +5,13 @@ import numpy as np # Mungkin dibutuhkan untuk preprocessing data input
 
 # --- Konfigurasi Halaman Streamlit ---
 st.set_page_config(
-    page_title="Aplikasi Prediksi Harga Penutupan Saham",
+    page_title="Aplikasi Prediksi Harga Penutupan Saham BBCA",
     layout="centered",
     initial_sidebar_state="expanded"
 )
 
 # --- Judul dan Deskripsi Aplikasi ---
-st.title("📈 Prediksi Harga Penutupan Saham")
+st.title("📈 Prediksi Harga Penutupan Saham BBCA")
 st.write("""
 Aplikasi ini memprediksi harga penutupan saham (`Close`) berdasarkan
 harga pembukaan (`Open`), harga tertinggi (`High`), harga terendah (`Low`),
