@@ -1,0 +1,4 @@
+streamlit
+pandas
+joblib
+scikit-learn # Sertakan ini jika model Anda dibangun dengan scikit-learn 
